@@ -12,9 +12,9 @@ class User extends React.PureComponent {
       <React.Fragment>
         <div className="flex-box-username">
           <img src={IronManImageOne} className="img-user" />
-          <p>@starkanthony</p>
-          <p>Followers: 2,939,774</p>
-          <p>Following: 2,939,774</p>
+          <p>@hectormoreno</p>
+          <p>Followers: 2,122,939,774</p>
+          <p>Following: 80</p>
         </div>
         <div className="Card-Flex-Box">
           <div className="CardGroup">
